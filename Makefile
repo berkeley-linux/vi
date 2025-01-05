@@ -130,7 +130,7 @@ INSTALL		= /usr/bin/install
 #
 # If your system expands tabs to 4 spaces you should -DTABS=4 below
 #
-FEATURES	= -DLISPCODE -DCHDIR -DFASTTAG -DUCVISUAL -DMB -DBIT8
+FEATURES	= -DLISPCODE -DCHDIR -DFASTTAG -DUCVISUAL -DMB -DBIT8 -DUXRE
 
 #
 # This disables the LC_CTYPE locale settings and assumes all characters
