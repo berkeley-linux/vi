@@ -121,7 +121,7 @@ extern int	vsprintf(char *, const char *, va_list);
 #endif
 #endif
 
-#define	TMP		"/var/tmp"
+#define	TMP		"/tmp"
 
 #ifdef	LANGMSG
 nl_catd	catd;

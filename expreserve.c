@@ -149,7 +149,7 @@ typedef	short	bbloc;
 #ifdef	notdef
 #define TMP	"/tmp"
 #else
-#define	TMP	"/var/tmp"
+#define	TMP	"/tmp"
 #endif
 
 #ifndef VMUNIX
